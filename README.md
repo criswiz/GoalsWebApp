@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # GoalsWebApp
+=======
+GoalsWebApp
+>>>>>>> master
